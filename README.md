@@ -1,3 +1,5 @@
 # Integration
-Webex Bot 
-Please ensure to set environment variables for "room_id" and "WEBEX_ACCESS_TOKEN" to specify the target room ID and Webex access token respectively.
+Before running the Webex Bot, make sure to set the following environment variables in your system:
+
+room_id: Specify the target room ID where the bot will operate.
+WEBEX_ACCESS_TOKEN: Provide the Webex access token required for authentication and authorization purposes.
